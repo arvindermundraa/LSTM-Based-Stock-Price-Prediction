@@ -61,7 +61,7 @@ The stacked architecture reduced Test MAE by **~25%**, demonstrating stronger lo
 ## Setup
 
 ```bash
-pip install torch pandas numpy matplotlib scikit-learn yfinance
+pip install -r requirements.txt
 ```
 
 Open `STAT656_Group_7_Code.ipynb` in Jupyter or Google Colab and run all cells.
@@ -83,6 +83,8 @@ Open `STAT656_Group_7_Code.ipynb` in Jupyter or Google Colab and run all cells.
 
 ---
 
-## Author
+## Authors
 
-**Arvinder Mundra** · [Portfolio](https://arvindermundraa.github.io/ArvinderMundra/) · [LinkedIn](https://www.linkedin.com/in/arvinder-mundraa) · [GitHub](https://github.com/arvindermundra1208)
+Team project for STAT 656 (Group 7). Report authors: Aditya Rao Ghodke, Arvinder Singh Mundra and Dharma Pokhrel.
+
+Repository maintained by **Arvinder Mundra** · [Portfolio](https://portfolio-react-theta-gules.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arvinder-mundraa) · [GitHub](https://github.com/arvindermundraa)
